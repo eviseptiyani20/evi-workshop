@@ -1,0 +1,17 @@
+C:\Users\cheli\source\repos\EviForm\EviForm\obj\Debug\net6.0-windows\EviForm.vbproj.AssemblyReference.cache
+C:\Users\cheli\source\repos\EviForm\EviForm\obj\Debug\net6.0-windows\EviForm.Form1.resources
+C:\Users\cheli\source\repos\EviForm\EviForm\obj\Debug\net6.0-windows\EviForm.vbproj.GenerateResource.cache
+C:\Users\cheli\source\repos\EviForm\EviForm\obj\Debug\net6.0-windows\EviForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheli\source\repos\EviForm\EviForm\obj\Debug\net6.0-windows\EviForm.AssemblyInfoInputs.cache
+C:\Users\cheli\source\repos\EviForm\EviForm\obj\Debug\net6.0-windows\EviForm.AssemblyInfo.vb
+C:\Users\cheli\source\repos\EviForm\EviForm\obj\Debug\net6.0-windows\EviForm.vbproj.CoreCompileInputs.cache
+C:\Users\cheli\source\repos\EviForm\EviForm\bin\Debug\net6.0-windows\EviForm.exe
+C:\Users\cheli\source\repos\EviForm\EviForm\bin\Debug\net6.0-windows\EviForm.deps.json
+C:\Users\cheli\source\repos\EviForm\EviForm\bin\Debug\net6.0-windows\EviForm.runtimeconfig.json
+C:\Users\cheli\source\repos\EviForm\EviForm\bin\Debug\net6.0-windows\EviForm.dll
+C:\Users\cheli\source\repos\EviForm\EviForm\bin\Debug\net6.0-windows\EviForm.pdb
+C:\Users\cheli\source\repos\EviForm\EviForm\obj\Debug\net6.0-windows\EviForm.dll
+C:\Users\cheli\source\repos\EviForm\EviForm\obj\Debug\net6.0-windows\refint\EviForm.dll
+C:\Users\cheli\source\repos\EviForm\EviForm\obj\Debug\net6.0-windows\EviForm.pdb
+C:\Users\cheli\source\repos\EviForm\EviForm\obj\Debug\net6.0-windows\EviForm.genruntimeconfig.cache
+C:\Users\cheli\source\repos\EviForm\EviForm\obj\Debug\net6.0-windows\ref\EviForm.dll
